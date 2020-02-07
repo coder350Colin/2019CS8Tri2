@@ -4,3 +4,9 @@ $(".type1").click(
     }
 );
 
+$(".type").click(
+    function(){
+        var yeet = $(this).css("background-color");
+        $('.type3')
+    }
+);
